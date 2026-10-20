@@ -10,3 +10,13 @@ These practices help teams improve software quality and
 deliver changes more efficiently.
 
 We are week 7 - Midterm
+
+DevOps is the integration and automation of software development 
+and information technology operations.
+DevOps encompasses the tasks necessary for software development
+and can lead to both shortening development time and improving 
+the development life cycle.[1] According to American software 
+architect Neal Ford, DevOps, particularly through continuous 
+delivery, employs the "bring the pain forward" principle by 
+tackling challenging tasks early, fostering automation, and
+enabling swift issue detection.
