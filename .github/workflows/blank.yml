@@ -30,7 +30,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22' # Specify your required Node version
-          cache: 'npm'       # Automatically caches npm dependencies
+              
 
       # Step 3: Install dependencies
       - name: Install dependencies
