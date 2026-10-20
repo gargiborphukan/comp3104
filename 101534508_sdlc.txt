@@ -30,3 +30,15 @@ Stage 4: Development (Coding)
 Stage 5: Testing
 Stage 6: Deployment
 Stage 7: Maintenance
+
+**Monitoring and Continuous Feedback in DevOps**
+
+Monitoring is an important stage of the software development life cycle 
+because it helps teams understand how applications perform after deployment. 
+DevOps teams use monitoring tools to track application availability, 
+performance, errors, and security issues. Continuous feedback helps 
+developers identify problems quickly and improve future releases. 
+By analyzing logs, automated alerts, and user feedback, teams can fix 
+bugs, improve reliability, and deliver a better user experience. This 
+process supports continuous improvement and makes software development 
+more efficient.
