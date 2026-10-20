@@ -18,4 +18,15 @@ development with business goals and user requirements.
 
 Provides a clear and organized framework for managing development phases
 Helps in early detection of defects, reducing overall cost and time
-Ensures high-quality software delivery that meets user expectations
+Ensures high-quality software delivery that meets user expectations.
+
+**Stages of the Software Development Life Cycle**
+The Software Development Life Cycle (SDLC) typically consists of six or seven stages, depending on the development model used.
+
+Stage 1: Planning & Feasibility Analysis
+Stage 2: Requirement Specification (SRS)
+Stage 3: System Design
+Stage 4: Development (Coding)
+Stage 5: Testing
+Stage 6: Deployment
+Stage 7: Maintenance
