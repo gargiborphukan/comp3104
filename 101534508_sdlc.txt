@@ -10,3 +10,12 @@ identify problems early by checking code changes regularly.
 DevOps practices help teams release software faster, improve
 reliability, reduce manual work, and maintain software quality
 throughout the software development life cycle.
+
+The Software Development Life Cycle (SDLC) is a structured 
+process used to plan, design, develop, test, deploy, and maintain 
+software. It ensures a systematic workflow and helps align software 
+development with business goals and user requirements.
+
+Provides a clear and organized framework for managing development phases
+Helps in early detection of defects, reducing overall cost and time
+Ensures high-quality software delivery that meets user expectations
