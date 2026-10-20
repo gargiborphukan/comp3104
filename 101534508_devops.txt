@@ -1,0 +1,12 @@
+COMP 3104 - DevOps
+
+COMP 3104 is a course that introduces students to DevOps
+principles and practices. DevOps encourages collaboration
+between software development and IT operations teams.
+
+Students learn about Git, GitHub, branching strategies,
+version control, continuous integration, and automation.
+These practices help teams improve software quality and
+deliver changes more efficiently.
+
+We are week 7 - Midterm
