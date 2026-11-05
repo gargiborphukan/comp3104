@@ -5,12 +5,12 @@
   "homepage": "https://gargiborphukan.github.io/comp3104",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject",
+    "start": "cd week5lab && react-scripts start",
+    "build": "cd week5lab && react-scripts build",
+    "test": "cd week5lab && react-scripts test",
+    "eject": "cd week5lab && react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d week5lab/build"
   },
   "repository": {
     "type": "git",
