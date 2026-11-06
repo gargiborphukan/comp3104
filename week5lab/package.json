@@ -22,8 +22,7 @@
   "bugs": {
     "url": "https://github.com/gargiborphukan/comp3104/issues"
   },
-  
-   "dependencies": {
+  "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.3",
@@ -34,7 +33,8 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "yaml": "^2.9.1"
   },
   "eslintConfig": {
     "extends": [
