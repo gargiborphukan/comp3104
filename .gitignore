@@ -1,1 +1,10 @@
 node_modules
+
+# Ignore nested repository
+COMP3104_Group19_Assignment/
+
+# Ignore React production build
+week5lab/build/
+
+# Ignore node dependencies
+week5lab/node_modules/
